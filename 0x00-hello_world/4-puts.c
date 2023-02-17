@@ -7,4 +7,5 @@
 int main(void)
 {
 	puts("\"Programming is like building a multilingual puzzile");
+	return (0);
 }
